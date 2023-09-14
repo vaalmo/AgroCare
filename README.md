@@ -1,4 +1,4 @@
-# Proyecto1
+# AgroCare
 Una aplicación web, que ayudará a las personas que tienen cultivos en el Valle de Aburrá, a predecir cambios climáticos drásticos como inundaciones y sequías.
 
 ## SetUp:
